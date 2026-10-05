@@ -1,0 +1,6 @@
+projectKey=devops-end-to-end
+serverUrl=http://16.112.12.27:9000
+serverVersion=26.9.0.129388
+dashboardUrl=http://16.112.12.27:9000/dashboard?id=devops-end-to-end
+ceTaskId=feaeb6d2-7ca3-4f1b-a4ea-a40c23155914
+ceTaskUrl=http://16.112.12.27:9000/api/ce/task?id=feaeb6d2-7ca3-4f1b-a4ea-a40c23155914
